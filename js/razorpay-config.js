@@ -10,12 +10,12 @@ const RAZORPAY_CONFIG = {
     
     // Live Mode Credentials (Replace with your actual keys)
     live: {
-        keyId: 'YOUR_LIVE_KEY_ID',
-        keySecret: 'YOUR_LIVE_KEY_SECRET' // Not needed for frontend
+        keyId: 'rzp_live_Rn3w5m3jxnc59J',
+        keySecret: 'rCstbTm1nu2NnwTBAH79DLso' 
     },
     
     // Current Mode: 'test' or 'live'
-    mode: 'test',
+    mode: 'live',
     
     // Currency
     currency: 'INR',
